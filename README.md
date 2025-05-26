@@ -3,7 +3,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumitkumar17das) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sumitdas1708@icloud.com) 
 
-I am  a Computer Science student with a strong foundation in programming (Python, Java, Kotlin, C++), Android development, frontend and backend technologies. He has built data-driven and cross-platform applications like a Satellite Image Band Visualizer, Customer Churn Predictor, and Heart Disease Prediction App. Skilled in data analysis, machine learning, and full-stack development, Sumit is passionate about solving real-world problems through tech.
+I am  a Computer Science student with a strong foundation in programming (Python, Java, Kotlin, C++), Android development, frontend and backend technologies. I have built data-driven and cross-platform applications like a Satellite Image Band Visualizer, Customer Churn Predictor, and Heart Disease Prediction App. 
+Skilled in data analysis, machine learning, and full-stack development, Sumit is passionate about solving real-world problems through tech.
 
 
 <picture>
