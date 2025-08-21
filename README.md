@@ -4,7 +4,7 @@
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sumitdas1708@icloud.com) 
 
 I am  a Computer Science student with a strong foundation in programming (Python, Java, Kotlin, C++), Android development, frontend and backend technologies. I have built data-driven and cross-platform applications like a Satellite Image Band Visualizer, Customer Churn Predictor, and Heart Disease Prediction App. 
-Skilled in data analysis, machine learning, and full-stack development, Sumit is passionate about solving real-world problems through tech.
+Skilled in data analysis, machine learning, and full-stack development.
 
 
 <picture>
@@ -19,12 +19,7 @@ Skilled in data analysis, machine learning, and full-stack development, Sumit is
 
 
 
-- **Programming Languages:** Python, Kotlin, Java, C++, HTML, CSS, JavaScript  
-- **Android Development:** Android Studio, XML, Jetpack Compose  
-- **Frontend Development:** Bootstrap, Tailwind, React  
-- **Backend Development:** Node.js, Express  
-- **Data Analysis & Visualization:** NumPy, Pandas, Seaborn, Matplotlib, SQL, Excel, Power BI  
-- **Tools & Technologies:** Git, VS Code, Docker  
+ 
 
 
 
