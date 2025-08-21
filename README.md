@@ -1,20 +1,11 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="25" height="25" /> About Me: <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="25" height="25" />
 
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SumitKCodes/SumitKCodes/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SumitKCodes/SumitKCodes/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SumitKCodes/SumitKCodes/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<img align="left" height="240" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXltYTRvYzJzNGQxN3Z6NWN1b2FsYXo0Z3BhdTJteG9raHh1Nmo0bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OumCa12QC9CIvBe2c1/giphy.gif"  />
-
-###
-
-<br clear="both">
-
-<img align="left" height="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2QwbG5yNjhvY3VheHB0bWlvOHh0OWRydmRxbnJ2dmY0ZTBtajBwcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1yld7nW3oQ2IyRubUm/giphy.gif"  />
 
 ###
 
@@ -30,6 +21,12 @@
 ###
 
 <h6 align="left">👋 About Me<br><br>I am a Software Engineer specializing as a Full Stack Developer and Data Scientist, passionate about building scalable systems, intelligent applications, and impactful solutions. With experience across distributed systems, cloud platforms, and AI-driven applications, I bring together strong problem-solving skills and technical expertise to deliver innovative products.<br><br>🚀 Projects<br><br>Mini-S3 – Distributed object storage system inspired by Amazon S3 with replication, versioning, and microservices.<br><br>RoveraAI – AI-powered travel planner integrating real-time weather, traffic, and maps APIs.<br><br>NoMoreNoise – Community noise reporting platform with geolocation tracking and role-based dashboards.<br><br>Zeniq – Real-time stock market web app with portfolio tracking and live chart visualizations.<br><br>💻 Technical Expertise<br><br>Programming: Java, Python, C++, JavaScript, TypeScript, SQL<br><br>Full Stack Development: MERN, Next.js, Tailwind CSS, REST APIs, Supabase, Firebase<br><br>Data Science & ML: TensorFlow, PyTorch, Scikit-learn, MLflow, OpenCV, PowerBI<br><br>Cloud & DevOps: AWS, Docker, GitHub, CI/CD, Microservices<br><br>🌟 Always exploring opportunities to contribute, collaborate, and innovate at the intersection of software engineering and data science.</h6>
+
+###
+
+<div align="center">
+  <img height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmU1emtkMDE0Z3JjbGdteXp5M2MyNXJiZTlncG1iM2dnY2tldGp2NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xWMPYx55WNhX136T0V/giphy.gif"  />
+</div>
 
 ###
 
